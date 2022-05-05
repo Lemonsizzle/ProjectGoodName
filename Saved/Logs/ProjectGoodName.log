@@ -1057,4 +1057,3 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get key_id
 [2022.05.05-08.20.30:902][927]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
 [2022.05.05-08.20.30:910][927]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2022.05.05-08.20.30:910][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.05.05-09.10.51:323][667]LogDerivedDataCache: C:/Users/ghazi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.316 and deleted 0 file(s) with total size 0 MiB.
